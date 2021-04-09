@@ -1,6 +1,6 @@
-## Sawmill - Log Shipper to Portal
+## Lumber - Log Shipper to Portal
 
-[![crates.io](https://meritbadge.herokuapp.com/sawmill)](https://crates.io/crates/sawmill)
+[![crates.io](https://meritbadge.herokuapp.com/lumber)](https://crates.io/crates/lumber)
 
 ### Purpose
 
